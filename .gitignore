@@ -1,8 +1,8 @@
 #datbase
-*.db
-*.csv
-*.sqlite
-*.zip
+data/raw/archive.zip
+data/processed/instacart.db
+data/interim/instacart_data/*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
